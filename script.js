@@ -1,2 +1,3 @@
 ```javascript
-console.log("Привет, это симулятор Каспи!");
+document.getElementById("message").textContent = "Сайт работает!";
+```
